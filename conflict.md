@@ -1,1 +1,1 @@
-paar rida teksti omal valikul
+paar rida teksti omal valikul 2
